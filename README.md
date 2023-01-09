@@ -10,5 +10,5 @@ sudo apt-get install wget
 ```
 - 下载一键安装脚本并运行
 ```shell
-wget -O https://github.com/HadaPool/HadaPoolSolo/releases/download/2.0.1/hada_miner.sh && chmod +x hada_miner.sh && ./hada_miner.sh
+wget https://github.com/HadaPool/HadaPoolSolo/releases/download/2.0.1/hada_miner.sh && chmod +x hada_miner.sh && ./hada_miner.sh
 ```
