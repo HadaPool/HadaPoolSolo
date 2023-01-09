@@ -1,5 +1,5 @@
 ### 1. 环境标准
-+ 系统版本： 建議使用ubuntu 20.04版本；【ubuntu桌面版/命令行版本下載地址： https://releases.ubuntu.com/focal/】
++ 系统版本： 建議使用ubuntu 20.04版本；<br /> ubuntu桌面版/命令行版本下載地址： https://releases.ubuntu.com/focal/
 + 显卡驱动： 驅動需520、525版本驅動
 + 显卡要求： N卡
 
